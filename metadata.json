@@ -1,0 +1,5 @@
+{
+  "name": "VogueAI - Virtual Try-On Studio",
+  "description": "A high-end AI fashion engine that allows users to virtually try on clothing items on a model while preserving identity, pose, and realism.",
+  "requestFramePermissions": []
+}
